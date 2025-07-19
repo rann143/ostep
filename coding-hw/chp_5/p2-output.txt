@@ -1,0 +1,8 @@
+Child says 'Hi, Papa2'
+Parent Process (pid:68468)
+child (pid:68475)
+file descriptor from child: 3
+Parent says 'Hi, Kiddo'
+Parent Process (pid:68468)
+parent of 68475 (pid:68468)
+file descriptor from parent: 3
